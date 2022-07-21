@@ -29,4 +29,4 @@ Which candidate won the election, what was their vote count, and what was their 
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 	The script can be developed more in showing the percentage of vote in each county for different candidates to show what area can be more invested for different candidate. Another aspect can be modified is to lookup functuion to look for szpecific rows in the dataset to locate the info needed.
-anllange-3
+
